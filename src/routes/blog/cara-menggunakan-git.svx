@@ -17,3 +17,20 @@ git init
 git add remote add origin https://username:password@github.com/username/repo
 ```
 
+## Upload ke Github
+
+```bash
+git add -A && git commit -m "pesan commitnya" && git push origin master
+```
+
+## Cek Perubahan
+
+```bash
+git status
+```
+
+## Update dari Github
+
+```bash
+git pull origin master
+```
