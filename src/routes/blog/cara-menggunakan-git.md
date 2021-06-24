@@ -34,3 +34,9 @@ git status
 ```bash
 git pull origin master
 ```
+
+## Setting Branch Utama
+
+```bash
+git push --set-upstream origin master
+```
