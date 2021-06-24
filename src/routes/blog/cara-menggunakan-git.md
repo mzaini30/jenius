@@ -38,5 +38,5 @@ git pull origin master
 ## Setting Branch Utama
 
 ```bash
-git push --set-upstream origin master
+git push -u origin master
 ```
